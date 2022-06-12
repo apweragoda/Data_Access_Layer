@@ -1,0 +1,13 @@
+D:\Workplace\VIRTUSA\Data_Access_Layer\obj\Debug\netcoreapp3.1\Data_Access_Layer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Workplace\VIRTUSA\Data_Access_Layer\obj\Debug\netcoreapp3.1\Data_Access_Layer.AssemblyInfoInputs.cache
+D:\Workplace\VIRTUSA\Data_Access_Layer\obj\Debug\netcoreapp3.1\Data_Access_Layer.AssemblyInfo.cs
+D:\Workplace\VIRTUSA\Data_Access_Layer\obj\Debug\netcoreapp3.1\Data_Access_Layer.csproj.CoreCompileInputs.cache
+D:\Workplace\VIRTUSA\Data_Access_Layer\bin\Debug\netcoreapp3.1\Data_Access_Layer.deps.json
+D:\Workplace\VIRTUSA\Data_Access_Layer\bin\Debug\netcoreapp3.1\Data_Access_Layer.runtimeconfig.json
+D:\Workplace\VIRTUSA\Data_Access_Layer\bin\Debug\netcoreapp3.1\Data_Access_Layer.runtimeconfig.dev.json
+D:\Workplace\VIRTUSA\Data_Access_Layer\bin\Debug\netcoreapp3.1\Data_Access_Layer.dll
+D:\Workplace\VIRTUSA\Data_Access_Layer\bin\Debug\netcoreapp3.1\Data_Access_Layer.pdb
+D:\Workplace\VIRTUSA\Data_Access_Layer\obj\Debug\netcoreapp3.1\Data_Access_Layer.dll
+D:\Workplace\VIRTUSA\Data_Access_Layer\obj\Debug\netcoreapp3.1\Data_Access_Layer.pdb
+D:\Workplace\VIRTUSA\Data_Access_Layer\obj\Debug\netcoreapp3.1\Data_Access_Layer.genruntimeconfig.cache
+D:\Workplace\VIRTUSA\Data_Access_Layer\obj\Debug\netcoreapp3.1\Data_Access_Layer.csproj.AssemblyReference.cache
